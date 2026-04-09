@@ -1,4 +1,4 @@
-# Pranav Social Media
+
 
 A full-stack social media application built using the MERN stack (MongoDB, Express.js, React, Node.js). This platform allows users to create posts, like and comment, follow other users, and chat in real time—offering a modern and responsive social networking experience.
 
